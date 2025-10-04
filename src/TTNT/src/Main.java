@@ -35,7 +35,12 @@ public class Main {
         for (Node n : nodes) {
             n.visited = false;
             n.parent = null;
+
+
         }
 
+    }
+    private void kietLac(){
+        System.out.println("CHO KIET");
     }
 }
