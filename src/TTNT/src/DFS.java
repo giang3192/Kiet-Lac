@@ -30,6 +30,6 @@ public class DFS {
             s = node.state + " " + s;
             node = node.parent;
         }
-        System.out.println(initial.state + " " + s);
+        System.out.println(initial.state + " Giang dz" + s);
     }
 }
